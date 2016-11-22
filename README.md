@@ -17,5 +17,8 @@
 
  系統介面:
 ![image](https://github.com/ask0324017/oose_0324017_/blob/master/%E7%B3%BB%E7%B5%B1%E4%BB%8B%E9%9D%A2.jpg?raw=true)
-
+user case:
+![image](https://raw.githubusercontent.com/ask0324017/oose_0324017_/master/user%20case.PNG)
+活動圖:
+![image](https://raw.githubusercontent.com/ask0324017/oose_0324017_/master/%E6%B4%BB%E5%8B%95%E5%9C%96.PNG)
 
