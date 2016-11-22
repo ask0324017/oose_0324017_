@@ -21,4 +21,8 @@ user case:
 ![image](https://raw.githubusercontent.com/ask0324017/oose_0324017_/master/user%20case.PNG)
 活動圖:
 ![image](https://raw.githubusercontent.com/ask0324017/oose_0324017_/master/%E6%B4%BB%E5%8B%95%E5%9C%96.PNG)
-
+強韌圖:
+![image](https://raw.githubusercontent.com/ask0324017/oose_0324017_/master/%E5%BC%B7%E9%9F%8C%E5%9C%961.png)
+![image](https://raw.githubusercontent.com/ask0324017/oose_0324017_/master/%E5%BC%B7%E9%9F%8C%E5%9C%962.png)
+![image](https://raw.githubusercontent.com/ask0324017/oose_0324017_/master/%E5%BC%B7%E9%9F%8C%E5%9C%963.png)
+![image](https://raw.githubusercontent.com/ask0324017/oose_0324017_/master/%E5%BC%B7%E9%9F%8C%E5%9C%964.png)
