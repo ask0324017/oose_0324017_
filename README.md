@@ -48,3 +48,7 @@
 ### 評論AC循序圖
 
 ![image](https://github.com/ask0324017/oose_0324017_/blob/master/%E8%A9%95%E8%AB%96AC%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
+
+## 七、類別圖：
+
+![image](https://github.com/ask0324017/oose_0324017_/blob/master/%E9%A1%9E%E5%88%A5%E5%9C%96.png)
