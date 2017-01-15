@@ -52,3 +52,27 @@
 ## 七、類別圖：
 
 ![image](https://github.com/ask0324017/oose_0324017_/blob/master/%E9%A1%9E%E5%88%A5%E5%9C%96.png)
+
+## 八、使用介面：
+
+### 註冊
+
+![image](https://github.com/ask0324017/oose_0324017_/blob/master/%E4%BD%BF%E7%94%A8%E4%BB%8B%E9%9D%A2%EF%BC%BF%E8%A8%BB%E5%86%8A.jpg)
+
+### 登入
+
+![image](https://github.com/ask0324017/oose_0324017_/blob/master/%E4%BD%BF%E7%94%A8%E4%BB%8B%E9%9D%A2%EF%BC%BF%E7%99%BB%E5%85%A5.jpg)
+
+### 首頁
+
+![image](https://github.com/ask0324017/oose_0324017_/blob/master/%E4%BD%BF%E7%94%A8%E4%BB%8B%E9%9D%A2%EF%BC%BF%E9%A6%96%E9%A0%81.jpg)
+
+### 查詢
+
+![image](https://github.com/ask0324017/oose_0324017_/blob/master/%E4%BD%BF%E7%94%A8%E4%BB%8B%E9%9D%A2%EF%BC%BF%E6%9F%A5%E8%A9%A2.jpg)
+
+![image](https://github.com/ask0324017/oose_0324017_/blob/master/%E4%BD%BF%E7%94%A8%E4%BB%8B%E9%9D%A2%EF%BC%BF%E5%AD%B8%E6%A0%A1%E6%9F%A5%E8%A9%A2.jpg)
+
+### 教師介面
+
+![image](https://github.com/ask0324017/oose_0324017_/blob/master/%E4%BD%BF%E7%94%A8%E4%BB%8B%E9%9D%A2%EF%BC%BF%E6%95%99%E5%B8%AB%E4%BB%8B%E9%9D%A2.jpg)
